@@ -16,13 +16,14 @@ body {
 .lower-section {
   display: flex;
   flex-direction: row;
-  flex-grow: 1;
+  width: 100%
 }
 
 .subscription {
   display: flex;
   flex-direction: column;
   background-color: hsl(170, 62%, 43%);
+  width: 50%;
 }
 
 #sub-price-per-month {
@@ -32,6 +33,7 @@ body {
 
 .why-us {
  background-color: hsl(179, 62%, 43%);
+  width: 50%;
 }
 
 .lower-header h1 {

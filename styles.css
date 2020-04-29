@@ -2,8 +2,8 @@ body {
   font-family: 'Karla', sans-serif;
 }
 .grid-component {
-  height: 750px;
-  width: 600px;
+  display: flex;
+  flex-direction: column;
 }
 .top-section {
   display: flex;

@@ -1,0 +1,9 @@
+.top-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.lower-section {
+  display: flex;
+  flex-direction: row;
+}

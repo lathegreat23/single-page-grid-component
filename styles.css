@@ -14,12 +14,16 @@ body {
 .lower-section {
   display: flex;
   flex-direction: row;
-  background-color: red;
 }
 
 .subscription {
   display: flex;
   flex-direction: column;
+  background-color: hsl(179, 62%, 43%);
+}
+
+.why-us {
+ background-color: hsl(170, 62%, 43%);
 }
 
 .lower-header h1 {

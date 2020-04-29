@@ -16,6 +16,7 @@ body {
 .lower-section {
   display: flex;
   flex-direction: row;
+  flex-grow: 1;
 }
 
 .subscription {

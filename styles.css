@@ -22,6 +22,11 @@ body {
   background-color: hsl(170, 62%, 43%);
 }
 
+#sub-price-per-month {
+  display: flex;
+  flex-direction: row;
+}
+
 .why-us {
  background-color: hsl(179, 62%, 43%);
 }

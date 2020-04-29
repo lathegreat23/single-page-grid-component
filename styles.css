@@ -1,3 +1,6 @@
+body {
+  font-family: 'Karla', sans-serif;
+}
 .grid-component {
   height: 750px;
   width: 600px;
@@ -11,4 +14,16 @@
 .lower-section {
   display: flex;
   flex-direction: row;
+  background-color: red;
+}
+
+.subscription {
+  display: flex;
+  flex-direction: column;
+}
+
+.lower-header h1 {
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
 }

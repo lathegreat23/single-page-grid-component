@@ -1,6 +1,11 @@
+.grid-component {
+  height: 750px;
+  width: 600px;
+}
 .top-section {
   display: flex;
   flex-direction: column;
+  background-color: blue;
 }
 
 .lower-section {

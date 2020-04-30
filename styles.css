@@ -41,6 +41,7 @@ body {
   flex-direction: row;
   width: 100%;
   border-radius: 0 0 10px 10px;
+  color: 
 }
 
 .subscription {
@@ -50,6 +51,7 @@ body {
   width: 50%;
   padding: 10px 0 25px 25px;
   border-radius: 0 0 0 10px;
+  color: hsl(204, 43%, 93%);
 }
 
 #sub-price-per-month {

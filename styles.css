@@ -22,13 +22,13 @@ body {
 .top-section h1 {
   color: hsl(179, 62%, 43%);
   font-size: 19px;
-  font-weight: 700px;
+  font-weight: 700;
 }
 
 .top-section h2 {
   color: hsl(71, 73%, 54%);
   font-size: 17px;
-  font-weight: 700px;
+  font-weight: 700;
 }
 
 .top-section p {
@@ -75,16 +75,18 @@ body {
   width: 50%;
   padding: 10px 0 25px 25px;
   border-radius: 0 0 10px 0;
+  font-weight: 700;
 }
 
 .why-us-links p {
   color: hsl(204, 43%, 93%);
   padding-bottom: 2px;
+  font-weight: 400;
   margin: 0;
 }
 
 .lower-header h1 {
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 700;
   color: hsl(204, 43%, 93%);
 }

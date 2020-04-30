@@ -49,6 +49,7 @@ body {
   background-color: hsl(170, 62%, 43%);
   width: 50%;
   padding: 10px 0 25px 25px;
+  border-radius: 0 0 0 10px;
 }
 
 #sub-price-per-month {

@@ -73,6 +73,6 @@ button {
     box-shadow: 0 10px 6px -6px #777; 
 }
 
-.sign-up-button {
+#sign-up-button {
   align-self: center;
 }

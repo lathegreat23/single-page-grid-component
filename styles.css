@@ -72,3 +72,7 @@ button {
     background-color: hsl(71, 73%, 54%);
     box-shadow: 0 10px 6px -6px #777; 
 }
+
+.sign-up-button {
+  align-self: center;
+}

@@ -8,7 +8,6 @@ body {
   flex-direction: column;
   width: 600px;
   height: 500px;
-  border-raidus: 20px;
 }
 
 .top-section {
@@ -16,6 +15,7 @@ body {
   flex-direction: column;
   background-color: white;
   padding: 10px 0 25px 25px;
+  border-radius: 10px 10px 0 0;
 }
 
 .top-section h1 {
@@ -38,7 +38,8 @@ body {
 .lower-section {
   display: flex;
   flex-direction: row;
-  width: 100%
+  width: 100%;
+  border-radius: 10px 10px 0 0;
 }
 
 .subscription {

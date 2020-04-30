@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   width: 600px;
   height: 500px;
-  border-raidus: 3px;
+  border-raidus: 20px;
 }
 
 .top-section {

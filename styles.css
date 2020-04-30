@@ -10,11 +10,23 @@ body {
 .top-section {
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: hsl(204, 43%, 93%);
+}
+
+.top-section h1 {
+  color: hsl(179, 62%, 43%);
+  font-size: 19px;
+  font-weight: 700px;
+}
+
+.top-section h2 {
+  color: hsl(71, 73%, 54%);
+  font-size: 17px;
+  font-weight: 700px;
 }
 
 .top-section p {
-  font-color: hsl(218, 22%, 67%);
+  color: hsl(218, 22%, 67%);
   font-weight: 400;
 }
 
@@ -51,11 +63,10 @@ button {
     border: 0;
     line-height: 2.5;
     padding: 0 20px;
-    font-size: 1rem;
+    font-size: 17px;
     text-align: center;
-    color: #fff;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
+    color: hsl(204, 43%, 93%);
+    border-radius: 5px;
     background-color: hsl(71, 73%, 54%);
     box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
                 inset -2px -2px 3px rgba(0, 0, 0, .6);

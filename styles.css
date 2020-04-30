@@ -52,6 +52,18 @@ body {
 #sub-price-per-month {
   display: flex;
   flex-direction: row;
+  align-items: center;
+}
+
+#subscription-price-num h2 {
+  color: hsl(204, 43%, 93%);
+  font-weight: 700;
+}
+
+#subscription-price-per p {
+  padding-left: 25px;
+  font-weight: 400;
+  color: hsl(204, 43%, 93%);
 }
 
 .why-us {
@@ -66,11 +78,14 @@ body {
   color: hsl(204, 43%, 93%);
 }
 
+.
+
 button {
     border: 0;
     line-height: 2.5;
     padding: 0 20px;
     font-size: 17px;
+    font-weight: 700;
     text-align: center;
     color: hsl(204, 43%, 93%);
     border-radius: 2px;

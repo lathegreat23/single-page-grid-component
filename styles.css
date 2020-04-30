@@ -77,6 +77,12 @@ body {
   border-radius: 0 0 10px 0;
 }
 
+.why-us-links p {
+  font-color: color: hsl(204, 43%, 93%);
+  padding: 0;
+  margin: 0;
+}
+
 .lower-header h1 {
   font-size: 15px;
   font-weight: 700;

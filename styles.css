@@ -1,5 +1,6 @@
 body {
   font-family: 'Karla', sans-serif;
+  background-color: hsl(204, 43%, 93%);
 }
 
 .grid-component {
@@ -7,6 +8,7 @@ body {
   flex-direction: column;
   width: 600px;
   height: 500px;
+  border-raidus: 3px;
 }
 
 .top-section {
@@ -53,6 +55,7 @@ body {
 .why-us {
  background-color: hsl(179, 62%, 43%);
   width: 50%;
+  padding-left: 10px;
 }
 
 .lower-header h1 {
@@ -68,7 +71,7 @@ button {
     font-size: 17px;
     text-align: center;
     color: hsl(204, 43%, 93%);
-    border-radius: 5px;
+    border-radius: 2px;
     background-color: hsl(71, 73%, 54%);
     box-shadow: 0 10px 6px -6px #777; 
 }

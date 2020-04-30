@@ -21,13 +21,13 @@ body {
 
 .top-section h1 {
   color: hsl(179, 62%, 43%);
-  font-size: 19px;
+  font-size: 23px;
   font-weight: 700;
 }
 
 .top-section h2 {
   color: hsl(71, 73%, 54%);
-  font-size: 17px;
+  font-size: 19px;
   font-weight: 700;
 }
 
@@ -58,15 +58,18 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  padding: 0;
+  margin: 10px 0;
 }
 
 #subscription-price-num h2 {
   color: hsl(204, 43%, 93%);
   font-weight: 700;
+  font-size: 29px;
 }
 
 #subscription-price-per p {
-  padding-left: 25px;
+  padding-left: 21px;
   font-weight: 400;
   color: hsl(204, 43%, 93%);
   border-radius: 0 0 0 10px;
@@ -88,13 +91,14 @@ body {
 }
 
 .lower-header h1 {
-  font-size: 17px;
+  font-size: 19px;
   font-weight: 700;
   color: hsl(204, 43%, 93%);
 }
 
 button {
     border: 0;
+    width: 75%;
     line-height: 2.5;
     padding: 0 20px;
     font-size: 17px;

@@ -78,8 +78,8 @@ body {
 }
 
 .why-us-links p {
-  font-color: color: hsl(204, 43%, 93%);
-  padding: 0;
+  color: hsl(204, 43%, 93%);
+  padding-bottom: 2px;
   margin: 0;
 }
 

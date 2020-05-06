@@ -115,8 +115,17 @@ button {
 }
 
 @media only screen and (max-width: 480px) {
+  .grid-component {
+    width: 80%;
+  }
   .lower-section {
     flex-direction: column;
+  }
+  .why-us {
+    width: 100%;
+  }
+  .subscription {
+    width: 100%;
   }
  
 }

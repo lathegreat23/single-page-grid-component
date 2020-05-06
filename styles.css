@@ -113,3 +113,10 @@ button {
 #sign-up-button {
   align-self: center;
 }
+
+@media only screen and (max-width: 480px) {
+  .lower-section {
+    flex-direction: column;
+  }
+ 
+}

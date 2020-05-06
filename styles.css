@@ -110,8 +110,8 @@ button {
     box-shadow: 0 10px 6px -6px #777; 
 }
 
-#sign-up-button {
-  align-self: center;
+button:hover {
+  background-color: hsl(71, 73%, 35%);
 }
 
 @media only screen and (max-width: 480px) {

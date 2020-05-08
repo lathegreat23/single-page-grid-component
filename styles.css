@@ -95,6 +95,7 @@ body {
 .why-us-links p {
   color: hsl(204, 43%, 93%);
   padding-bottom: 2px;
+  font-size: 14px;
   font-weight: 400;
   margin: 0;
 }

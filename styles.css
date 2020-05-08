@@ -118,13 +118,13 @@ button {
     font-weight: 700;
     text-align: center;
     color: hsl(204, 43%, 93%);
-    border-radius: 2px;
+    border-radius: 3px;
     background-color: hsl(71, 73%, 54%);
     box-shadow: 0 10px 6px -6px #777; 
 }
 
 button:hover {
-  background-color: hsl(71, 73%, 35%);
+  background-color: hsl(71, 73%, 45%);
 }
 
 @media only screen and (max-width: 480px) {

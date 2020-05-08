@@ -106,7 +106,8 @@ body {
   color: hsl(204, 43%, 93%);
   margin-top: 25px;
 }
-.sign-up-button {
+
+#sign-up-button {
   margin-top: 10px;
 }
 button {
@@ -146,7 +147,11 @@ button:hover {
     width: 100%;
     border-radius: 0 0 10px 10px;
   }
-  .sign-up-button {
+  .subscription div:not(#sign-up-button) {
+     padding: 10px 0 25px 25px;
+  }
+  
+  #sign-up-button {
     text-align: center;
   }
 }

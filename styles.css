@@ -139,9 +139,11 @@ button:hover {
   }
   .why-us {
     width: 100%;
+    border-radius: 0 0 10px 10px;
   }
   .subscription {
     width: 100%;
+    border-radius: 0;
   }
  
 }

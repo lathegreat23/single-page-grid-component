@@ -23,17 +23,21 @@ body {
   color: hsl(179, 62%, 43%);
   font-size: 23px;
   font-weight: 700;
+  margin: 15px 0 10px 0;
 }
 
 .top-section h2 {
   color: hsl(71, 73%, 54%);
   font-size: 19px;
   font-weight: 700;
+  margin-bottom: 0;
 }
 
 .top-section p {
   color: hsl(218, 22%, 67%);
   font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
 }
 
 .lower-section {
@@ -66,6 +70,7 @@ body {
   color: hsl(204, 43%, 93%);
   font-weight: 700;
   font-size: 29px;
+  margin: 0;
 }
 
 #subscription-price-per p {
@@ -73,6 +78,10 @@ body {
   font-weight: 400;
   color: hsl(204, 43%, 93%);
   border-radius: 0 0 0 10px;
+}
+
+#subscription-info p {
+  margin-top: 0;
 }
 
 .why-us {
@@ -95,7 +104,9 @@ body {
   font-weight: 700;
   color: hsl(204, 43%, 93%);
 }
-
+.sign-up-button {
+  margin-top: 10px;
+}
 button {
     border: 0;
     width: 75%;

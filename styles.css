@@ -111,7 +111,7 @@ body {
 }
 button {
     border: 0;
-    width: 75%;
+    width: 80%;
     line-height: 2.5;
     padding: 0 20px;
     font-size: 17px;
@@ -137,13 +137,13 @@ button:hover {
   .lower-section {
     flex-direction: column;
   }
+  .subscription {
+    width: 100%;
+    border-radius: 0;
+    padding: 35px;
+  }
   .why-us {
     width: 100%;
     border-radius: 0 0 10px 10px;
   }
-  .subscription {
-    width: 100%;
-    border-radius: 0;
-  }
- 
 }

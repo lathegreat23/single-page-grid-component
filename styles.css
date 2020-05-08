@@ -45,7 +45,13 @@ body {
   flex-direction: row;
   width: 100%;
   border-radius: 0 0 10px 10px;
-  color: 
+}
+
+.lower-header h1 {
+  font-size: 19px;
+  font-weight: 700;
+  color: hsl(204, 43%, 93%);
+  margin-top: 25px;
 }
 
 .subscription {
@@ -63,7 +69,7 @@ body {
   flex-direction: row;
   align-items: center;
   padding: 0;
-  margin: 10px 0;
+  margin: 0 0 10px 0;
 }
 
 #subscription-price-num h2 {
@@ -84,12 +90,20 @@ body {
   margin: 0 0 10px 0;
 }
 
+#sign-up-button {
+  margin-top: 10px;
+}
+
 .why-us {
   background-color: hsl(179, 47%, 52%);
   width: 50%;
   padding: 10px 0 25px 25px;
   border-radius: 0 0 10px 0;
   font-weight: 700;
+}
+
+#why-us-header {
+  padding-bottom: 10px;
 }
 
 .why-us-links p {
@@ -100,16 +114,7 @@ body {
   margin: 0;
 }
 
-.lower-header h1 {
-  font-size: 19px;
-  font-weight: 700;
-  color: hsl(204, 43%, 93%);
-  margin-top: 25px;
-}
 
-#sign-up-button {
-  margin-top: 10px;
-}
 button {
     border: 0;
     width: 80%;

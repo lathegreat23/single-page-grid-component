@@ -141,8 +141,21 @@ button:hover {
   .subscription {
     width: 100%;
     border-radius: 0;
-    padding-bottom: 35px;
+    padding: 0 25px 35px 0;
   }
+  
+  #month-sub-header {
+    padding-left: 25px;
+  }
+  
+  #sub-price-per-month {
+    padding-left: 25px;
+  }
+  
+   #subscription-info {
+    padding-left: 25px;
+  }
+  
   .why-us {
     width: 100%;
     border-radius: 0 0 10px 10px;
@@ -150,5 +163,11 @@ button:hover {
   
   #sign-up-button {
     text-align: center;
+    padding-left: 10px;
+    width: 100%;
+  }
+  
+  button {
+    width: 90%;
   }
 }

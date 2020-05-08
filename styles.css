@@ -132,12 +132,15 @@ button:hover {
   .grid-component {
     width: 80vw;
   }
+  
   .top-section {
     width: 100%;
   }
+  
   .lower-section {
     flex-direction: column;
   }
+  
   .subscription {
     width: 100%;
     border-radius: 0;
@@ -159,6 +162,10 @@ button:hover {
   .why-us {
     width: 100%;
     border-radius: 0 0 10px 10px;
+  }
+  
+  .why-us-links {
+    padding-bottom: 10px;
   }
   
   #sign-up-button {

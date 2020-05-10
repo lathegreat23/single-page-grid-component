@@ -136,6 +136,7 @@ button:hover {
 @media only screen and (max-width: 480px) {
   .grid-component {
     width: 80vw;
+    padding: 10px 20px;
   }
   
   .top-section {

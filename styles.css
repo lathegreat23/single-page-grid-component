@@ -3,6 +3,10 @@ body {
   background-color: hsl(204, 43%, 93%);
 }
 
+footer {
+  position: relative;
+}
+
 .grid-component {
   display: flex;
   flex-direction: column;

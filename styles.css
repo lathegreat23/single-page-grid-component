@@ -141,6 +141,7 @@ button:hover {
   .grid-component {
     width: 80vw;
     padding: 10px 20px;
+    margin-bottom: 250px;
   }
   
   .top-section {
